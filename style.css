@@ -1,0 +1,40 @@
+body {
+        font-family: Arial, sans-serif;
+        background-color: hsl(30, 14%, 97%);
+        margin: 0;
+        padding: 0;
+        }
+h1 {
+        text-align: center;
+        color: hsl(245, 92%, 19%);
+       }
+
+table {
+        border-collapse: collapse;
+        margin: 20px auto;
+        background-color: #ffffff;
+        border: 2px solid hsl(245, 92%, 19%);
+        box-shadow: 0 2px 4px rgba(91, 13, 187, 0.1);
+    }
+
+th,td {
+        border: 1px solid hsl(245, 92%, 19%);
+        padding: 10px;
+        text-align: center;
+    }
+
+th {
+        background-color: #f2f2f2;
+        color: #03396f;
+        }
+
+.highlight {
+            background-color: hsl(245, 92%, 19%);;
+            }
+
+.special {
+            background-color:hsl(32, 90%, 49%);
+            }
+.WhiteText {
+            color: hsl(240, 20%, 99%);
+            }
